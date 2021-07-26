@@ -1,0 +1,1 @@
+Working through the book: "Full-Stack React, Typescript & Node", by David Choi
