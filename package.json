@@ -1,0 +1,22 @@
+{
+  "name": "handsontypescript",
+  "version": "1.0.0",
+  "description": "Working through the book: \"Full-Stack React, Typescript & Node\", by David Choi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinjagit/HandsOnTypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinjagit/HandsOnTypeScript/issues"
+  },
+  "homepage": "https://github.com/jinjagit/HandsOnTypeScript#readme",
+  "dependencies": {
+    "typescript": "^4.4.2"
+  }
+}

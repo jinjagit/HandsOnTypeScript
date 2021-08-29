@@ -8,3 +8,4 @@ var jill = {
 };
 var person = jill;
 console.log(person);
+// => { name: 'jill' }
